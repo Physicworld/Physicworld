@@ -7,7 +7,6 @@ I build research and production systems at the intersection of **software engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-physicworld-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/physicworld/)
 [![YouTube](https://img.shields.io/badge/YouTube-SundayTheQuant-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCGur_3YEu2PytaGJkgizD1Q)
 [![Website](https://img.shields.io/badge/Website-SundayTheQuant-111827?style=flat-square&logo=googlechrome)](https://www.aprende.sundaythequant.com/)
-![Open to work](https://img.shields.io/badge/Open_to_work-Remote_from_Mexico-16A34A?style=flat-square)
 
 ## Impact at a glance
 
@@ -39,7 +38,6 @@ I build research and production systems at the intersection of **software engine
 - **[polars-talis](https://github.com/SundayTheQuant/polars-talis)** — vectorized technical-analysis indicators built with Python and Polars.
 - **[Pyjuque](https://github.com/tudorelu/pyjuque)** — open-source algorithmic-trading library to which I contributed backtesting functionality.
 - **[CryptoFeeling](https://github.com/Physicworld/CryptoFeeling)** — an early data/quant project exploring market sentiment.
-- **[Sunday Tutorials](https://github.com/Physicworld/Sunday-Tutorials)** — companion code for educational content in programming, data science and algorithmic trading.
 
 ## Beyond the code
 
@@ -47,7 +45,7 @@ I hold a **BSc in Physics Engineering** from the University of Guanajuato. I als
 
 ## Let's connect
 
-I am open to remote opportunities as a **Senior Python Engineer, Quantitative Developer, Quantitative Researcher, Research Engineer,** or **FinTech Platform Engineer**.
+I am especially interested in remote roles as a **Senior Python Engineer, Quantitative Developer, Quantitative Researcher, Research Engineer,** or **FinTech Platform Engineer**.
 
 - [LinkedIn](https://www.linkedin.com/in/physicworld/)
 - [SundayTheQuant](https://www.youtube.com/channel/UCGur_3YEu2PytaGJkgizD1Q)
